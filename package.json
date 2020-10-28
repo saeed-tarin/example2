@@ -1,0 +1,27 @@
+{
+  "name": "example2",
+  "version": "1.0.0",
+  "main": "myFunc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.3.0",
+    "webpack-cli": "^4.1.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saeed-tarin/example2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saeed-tarin/example2/issues"
+  },
+  "homepage": "https://github.com/saeed-tarin/example2#readme",
+  "description": ""
+}
